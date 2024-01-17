@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+  background-color: rgba(0, 0, 255, 0.658);
+}
+.first{
+  color: blueviolet;
+}
+.third{
+  color: orange;
+  background-color: rgba(255, 255, 0, 0.774);
+}
+.fourth{
+  background-color: rgba(0, 128, 0, 0.411);
+}

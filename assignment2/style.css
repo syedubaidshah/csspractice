@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(190, 190, 190);
+    font-family: serif;
+}
+.main{
+    color: brown;
+    background-color: rgb(255, 194, 203);
+    font-size: 40px;
+}
+ul > li > a {
+    color: green;
+    background-color: rgb(210, 255, 138);
+  }
+h3{
+    color: rgb(100, 100, 100);
+}
+.m2{
+    color: orange;
+    background-color: rgb(248, 248, 210);
+    font-size: 20px;
+}
